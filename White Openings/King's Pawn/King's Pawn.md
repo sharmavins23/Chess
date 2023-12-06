@@ -1,0 +1,1 @@
+The king's pawn opening, or 1. e4, is the most popular first move by [[White Openings|white]] at all levels of the game. It was the favorite opening move of world champion Bobby Fischer, who called it the 'best by test.' This opening move is generally more assertive and aggressive than other opening styles.

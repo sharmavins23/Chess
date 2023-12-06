@@ -1,0 +1,1 @@
+The black pieces in [[Chess]] do not gain the first-move advantage of white openings, and thusly instead must play more positionally and defensively. Generally, black openings focus on defensive strategies, though black may win tempo and control over the game with particular openings.

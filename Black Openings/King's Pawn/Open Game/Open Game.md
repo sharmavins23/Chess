@@ -1,0 +1,1 @@
+The open game is entered when black plays 1...e5 following the [[King's Pawn]]. It is the classical response, grabbing [[Black Openings|black]] an equal share of the center. However, the position remains symmetrical, offering white an advantage by moving first.

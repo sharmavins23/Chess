@@ -1,0 +1,1 @@
+Chess is a positional war-emulation game where players control pieces on the board in efforts to attack the opponent's king and win the game. Players may play either [[White Openings|white]] or [[Black Openings|black]].
