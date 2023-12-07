@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8429742dbcfbbf69",
+        "id": "d7d95f6a1a2b04c7",
         "type": "tabs",
         "children": [
           {
-            "id": "68e416d6daf4703c",
+            "id": "29a3bae6ac3e9d27",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Game Notes/2023/December/2023-12-06.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Game Notes/2023/December/2023-12-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Game Notes/2023/December/2023-12-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Game Notes/2023/December/2023-12-06.md"
+              }
             }
           }
         ]
@@ -138,14 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68e416d6daf4703c",
+  "active": "29a3bae6ac3e9d27",
   "lastOpenFiles": [
-    "LICENSE.md",
-    "README.md",
     "Game Notes/2023/December/2023-12-05.md",
     "Game Notes/2023/December/2023-12-04.md",
-    "White Openings/King's Pawn/Vienna Game.md",
+    "Game Notes/2023/December/2023-12-06.md",
     "Black Openings/King's Pawn/Caro-Kann Defense.md",
+    "White Openings/King's Pawn/Vienna Game.md",
+    "LICENSE.md",
+    "README.md",
     "Black Openings/King's Pawn/Open Game/Open Game.md",
     "Black Openings/King's Pawn/Open Game",
     "White Openings/King's Pawn/King's Pawn.md",

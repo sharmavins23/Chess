@@ -2,6 +2,62 @@ The Caro-Kann is an interesting opening with [[Black Openings|black]] against th
 
 The Caro-Kann often leads to better endgames for black, who has the better pawn structure. It also avoids learning significant amounts of theory.
 
+## Advance Variation
+
+The advance variation is characterized by 3. e5 played by white, advancing the pawn to take more center control. It is the most popular variation of the Caro-Kann by far.
+
+```chesser
+id: SNKXBvVY
+orientation: black
+viewOnly: true
+```
+
+Theory generally states to develop the bishop with 3... Bf5, then lock the center with 4... e6, before finally attacking the center with 5... c5. However, a simpler approach is to simply gambit the center pawn by playing 3... c5. This is known as the Botvinnik-Carls Defense.
+
+```chesser
+id: SNKXBvVY
+orientation: black
+viewOnly: true
+```
+
+The most common response here is to play 4. c3, in which event we simply develop our knight and act like we know how to play chess. A more interesting position is when white takes, in which case we get to attack the remaining pawn and anchor white's pawn in with Nf3:
+
+```chesser
+id: SNKXBvVY
+orientation: black
+viewOnly: true
+```
+
+The millisecond you see this knight move, slam your bishop into the SUN. The remainder of the ideas in this position are to keep stacking pressure on white (while NEVER EVER relieving it) until white trips over their position and makes a horrible move. The following contains a series of potential ideas:
+
+```chesser
+viewOnly: true
+orientation: black
+id: NoxU607c
+```
+
+If white attacks the bishop at any point, feel free to throw it away and trade for the knight. Otherwise, 'waiting moves' on the A file work well (probably) - This is a reactionary position. Don't sit in the position too long. When the opportunity comes to grab two of the three following - Center control, material, or an attack on a higher valued piece - TAKE IT.
+
+## Exchange Variation
+
+This is the second-most common Caro-Kann variation, and is the easiest line to learn on a basic level. Simply put, follow the taking chain and just play chess as normal.
+
+```chesser
+id: ERPhboAG
+orientation: black
+viewOnly: true
+```
+
+The plans here are the same plans as in literally any position, ever. If white plays 4. c4, this variation enters the Panov-Botvinnik attack. In this event, start with the development of 4...Nf6, before fianchettoing kingside and castling ASAP.
+
+```chesser
+id: ERPhboAG
+orientation: black
+viewOnly: true
+```
+
+There are a ton of scary positions that black can find themselves in.
+
 ## Hillbilly Attack
 
 ### Mainline
