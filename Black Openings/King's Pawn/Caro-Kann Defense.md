@@ -107,3 +107,15 @@ viewOnly: true
 ```
 
 Note that white is threatening mate. However, the most natural move of 4...g6 simply protects against mate. From here on out, black should play aggressively and viciously attack the queen at any opportunity.
+
+## Nf3 Variation
+
+This is the second most popular response to the Caro-Kann on move 2. It is extremely weird, but it was played by Bobby Fisher. Here is the position:
+
+```chesser
+id: aNU6KSuM
+orientation: black
+viewOnly: true
+```
+
+Unfortunately, it's not well documented. If white plays this line, they don't understand their openings, so usually you have to just develop the bishop early (Spanish-style) and try not to get bullied too much.

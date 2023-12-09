@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d7d95f6a1a2b04c7",
+        "id": "0f0da56a364cb9f2",
         "type": "tabs",
         "children": [
           {
-            "id": "29a3bae6ac3e9d27",
+            "id": "9f577ccfb283aadc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/2023/December/2023-12-06.md",
+                "file": "Game Notes/2023/December/2023-12-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 261.5086555480957
   },
   "right": {
     "id": "ea5db8452f6b5d98",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Notes/2023/December/2023-12-06.md",
+                "file": "Game Notes/2023/December/2023-12-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Notes/2023/December/2023-12-06.md",
+                "file": "Game Notes/2023/December/2023-12-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Notes/2023/December/2023-12-06.md"
+                "file": "Game Notes/2023/December/2023-12-08.md"
               }
             }
           }
@@ -146,15 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29a3bae6ac3e9d27",
+  "active": "9f577ccfb283aadc",
   "lastOpenFiles": [
+    "Black Openings/King's Pawn/Caro-Kann Defense.md",
+    "Game Notes/2023/December/2023-12-08.md",
+    "README.md",
+    "Game Notes/2023/December/2023-12-06.md",
     "Game Notes/2023/December/2023-12-05.md",
     "Game Notes/2023/December/2023-12-04.md",
-    "Game Notes/2023/December/2023-12-06.md",
-    "Black Openings/King's Pawn/Caro-Kann Defense.md",
     "White Openings/King's Pawn/Vienna Game.md",
     "LICENSE.md",
-    "README.md",
     "Black Openings/King's Pawn/Open Game/Open Game.md",
     "Black Openings/King's Pawn/Open Game",
     "White Openings/King's Pawn/King's Pawn.md",
