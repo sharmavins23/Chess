@@ -148,6 +148,15 @@ viewOnly: true
 
 After this check, white may simply develop.
 
+#### Trash Variation
+
+This variation is literally called the Trash Variation as it is extremely bad, and Black simply pre-moved into a mistake. White is able to capture the central pawn with a flank pawn and generically assert dominance over the board by kicking the knights repetitively and gaining extreme center control.
+
+```chesser
+id: tTZPQ4kW
+viewOnly: true
+```
+
 ## Anderssen Defense
 
 The Anderssen Defense is a relatively boring line, often arising from players that either pre-move or want to get out of theory quickly. White gains superior pawn structure and development, but the game is played more positionally.
