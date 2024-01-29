@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Notes/2023/December/2023-12-04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "950484f123e208c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "White Openings/King's Pawn/Vienna Game.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1779051c15245226",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "White Openings/King's Pawn/Vienna Game.md",
+                "file": "Game Notes/2024/January/2024-01-05.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "White Openings/King's Pawn/Vienna Game.md",
+                "file": "Game Notes/2024/January/2024-01-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "White Openings/King's Pawn/Vienna Game.md",
+                "file": "Game Notes/2024/January/2024-01-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "White Openings/King's Pawn/Vienna Game.md"
+                "file": "Game Notes/2024/January/2024-01-05.md"
               }
             }
           }
@@ -171,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "950484f123e208c4",
+  "active": "9f577ccfb283aadc",
   "lastOpenFiles": [
-    "Game Notes/2024/January/2024-01-05.md",
-    "White Openings/King's Pawn/Vienna Game.md",
     "Game Notes/2023/December/2023-12-04.md",
+    "White Openings/King's Pawn/Vienna Game.md",
+    "Game Notes/2024/January/2024-01-05.md",
     "Game Notes/2024/January",
     "Game Notes/2024",
     "Game Notes/2023/December/2023-12-08.md",
